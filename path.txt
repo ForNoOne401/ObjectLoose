@@ -1,0 +1,1 @@
+%APPDATA%\ObjectLoose\OBJL\objl.exe
